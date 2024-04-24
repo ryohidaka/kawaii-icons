@@ -9,13 +9,5 @@
   "categories": [
     "Themes"
   ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Kawaii Icons",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Kawaii Icons-color-theme.json"
-      }
-    ]
-  }
+  "contributes": {}
 }
