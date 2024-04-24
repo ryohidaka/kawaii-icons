@@ -1,8 +1,12 @@
 {
   "fileExtensions": {
+    "c": "_c",
     "html": "_html"
   },
   "iconDefinitions": {
+    "_c": {
+      "iconPath": "./images/C/C.png"
+    },
     "_html": {
       "iconPath": "./images/Html/HTML.png"
     }
