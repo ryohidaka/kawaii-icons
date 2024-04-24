@@ -9,5 +9,13 @@
   "categories": [
     "Themes"
   ],
-  "contributes": {}
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "kawaii-icons",
+        "label": "Kawaii Icons",
+        "path": "./fileicons/kawaii-icons-theme.json"
+      }
+    ]
+  }
 }
