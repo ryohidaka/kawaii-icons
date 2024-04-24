@@ -10,6 +10,10 @@
     "cpy": "_cob",
     "cs": "_cs",
     "cxx": "_cpp",
+    "f": "_fortran",
+    "f08": "_fortran",
+    "f90": "_fortran",
+    "for": "_fortran",
     "html": "_html",
     "sqb": "_cob"
   },
@@ -25,6 +29,9 @@
     },
     "_cs": {
       "iconPath": "./images/C#/C#.png"
+    },
+    "_fortran": {
+      "iconPath": "./images/FORTRAN/FORTRAN.png"
     },
     "_html": {
       "iconPath": "./images/Html/HTML.png"
