@@ -1,11 +1,15 @@
 {
   "fileExtensions": {
     "c": "_c",
+    "cs": "_cs",
     "html": "_html"
   },
   "iconDefinitions": {
     "_c": {
       "iconPath": "./images/C/C.png"
+    },
+    "_cs": {
+      "iconPath": "./images/C#/C#.png"
     },
     "_html": {
       "iconPath": "./images/Html/HTML.png"
