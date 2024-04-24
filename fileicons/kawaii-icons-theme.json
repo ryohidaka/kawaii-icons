@@ -1,10 +1,10 @@
 {
+  "fileExtensions": {
+    "html": "_html"
+  },
   "iconDefinitions": {
     "_html": {
       "iconPath": "./images/Html/HTML.png"
     }
-  },
-  "fileExtensions": {
-    "html": "_html"
   }
 }
