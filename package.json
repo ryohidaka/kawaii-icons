@@ -3,6 +3,15 @@
   "displayName": "Kawaii Icons",
   "description": "A cute language icon pack. These images were created by @SAWARATSUKI .",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryohidaka/kawaii-icons.git"
+  },
+  "author": "ryohidaka <39184410+ryohidaka@users.noreply.github.com>",
+  "bugs": {
+    "url": "https://github.com/ryohidaka/kawaii-icons/issues"
+  },
+  "homepage": "https://github.com/ryohidaka/kawaii-icons#readme",
   "engines": {
     "vscode": "^1.88.0"
   },
