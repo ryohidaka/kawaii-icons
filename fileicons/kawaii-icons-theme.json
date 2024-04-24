@@ -1,16 +1,24 @@
 {
   "fileExtensions": {
     "c": "_c",
+    "cbl": "_cob",
     "cc": "_cpp",
+    "ccp": "_cob",
+    "cob": "_cob",
     "cp": "_cpp",
     "cpp": "_cpp",
+    "cpy": "_cob",
     "cs": "_cs",
     "cxx": "_cpp",
-    "html": "_html"
+    "html": "_html",
+    "sqb": "_cob"
   },
   "iconDefinitions": {
     "_c": {
       "iconPath": "./images/C/C.png"
+    },
+    "_cob": {
+      "iconPath": "./images/Cobol/Cobol.png"
     },
     "_cpp": {
       "iconPath": "./images/C++/C++.png"
