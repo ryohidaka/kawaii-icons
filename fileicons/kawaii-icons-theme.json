@@ -1,4 +1,10 @@
 {
-  "iconDefinitions": {},
-  "fileExtensions": {}
+  "iconDefinitions": {
+    "_html": {
+      "iconPath": "./images/Html/HTML.png"
+    }
+  },
+  "fileExtensions": {
+    "html": "_html"
+  }
 }
