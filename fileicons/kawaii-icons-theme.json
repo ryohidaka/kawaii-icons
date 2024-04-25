@@ -1,21 +1,14 @@
 {
   "file": "_minimal_file_dark",
   "fileExtensions": {
-    "c": "_c",
     "cbl": "_cob",
-    "cc": "_cpp",
     "ccp": "_cob",
     "cob": "_cob",
-    "cp": "_cpp",
-    "cpp": "_cpp",
     "cpy": "_cob",
-    "cs": "_cs",
-    "cxx": "_cpp",
     "f": "_fortran",
     "f08": "_fortran",
     "f90": "_fortran",
     "for": "_fortran",
-    "html": "_html",
     "sqb": "_cob"
   },
   "folder": "_minimal_folder_dark",
@@ -30,7 +23,7 @@
     "_cpp": {
       "iconPath": "./images/C++/C++.png"
     },
-    "_cs": {
+    "_csharp": {
       "iconPath": "./images/C#/C#.png"
     },
     "_fortran": {
@@ -69,6 +62,12 @@
     "_minimal_root_folder_open_dark": {
       "iconPath": "./vs-minimal/root-folder-open-dark.svg"
     }
+  },
+  "languageIds": {
+    "c": "_c",
+    "cpp": "_cpp",
+    "csharp": "_csharp",
+    "html": "_html"
   },
   "light": {
     "file": "_minimal_file_light",
