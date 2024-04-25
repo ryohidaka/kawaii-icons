@@ -94,6 +94,9 @@
     },
     "_typescript": {
       "iconPath": "./images/TypeScript/TypeScript.png"
+    },
+    "_vue": {
+      "iconPath": "./images/Vue/Vue.png"
     }
   },
   "languageIds": {
@@ -101,14 +104,14 @@
     "cpp": "_cpp",
     "csharp": "_csharp",
     "go": "_go",
-    "haskell": "_haskell",
     "html": "_html",
     "java": "_java",
     "python": "_python",
     "ruby": "_ruby",
     "rust": "_rust",
     "swift": "_swift",
-    "typescript": "_typescript"
+    "typescript": "_typescript",
+    "vue": "_vue"
   },
   "light": {
     "file": "_minimal_file_light",
