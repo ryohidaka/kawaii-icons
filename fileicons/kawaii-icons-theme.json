@@ -9,6 +9,7 @@
     "f08": "_fortran",
     "f90": "_fortran",
     "for": "_fortran",
+    "hs": "_haskell",
     "sqb": "_cob"
   },
   "folder": "_minimal_folder_dark",
@@ -31,6 +32,9 @@
     },
     "_go": {
       "iconPath": "./images/Go/Golang.png"
+    },
+    "_haskell": {
+      "iconPath": "./images/Haskell/Haskell.png"
     },
     "_html": {
       "iconPath": "./images/Html/HTML.png"
@@ -71,6 +75,7 @@
     "cpp": "_cpp",
     "csharp": "_csharp",
     "go": "_go",
+    "haskell": "_haskell",
     "html": "_html"
   },
   "light": {
