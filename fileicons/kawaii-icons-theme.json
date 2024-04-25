@@ -85,6 +85,9 @@
     },
     "_ruby": {
       "iconPath": "./images/Ruby/Ruby.png"
+    },
+    "_rust": {
+      "iconPath": "./images/Rust/Rust.png"
     }
   },
   "languageIds": {
@@ -96,7 +99,8 @@
     "html": "_html",
     "java": "_java",
     "python": "_python",
-    "ruby": "_ruby"
+    "ruby": "_ruby",
+    "rust": "_rust"
   },
   "light": {
     "file": "_minimal_file_light",
