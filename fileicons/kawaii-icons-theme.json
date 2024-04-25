@@ -11,6 +11,7 @@
     "for": "_fortran",
     "hs": "_haskell",
     "htmx": "_htmx",
+    "kt": "_kotlin",
     "sqb": "_cob"
   },
   "folder": "_minimal_folder_dark",
@@ -45,6 +46,9 @@
     },
     "_java": {
       "iconPath": "./images/Java/Java.png"
+    },
+    "_kotlin": {
+      "iconPath": "./images/Kotlin/Kotlin_New.png"
     },
     "_minimal_file_dark": {
       "iconPath": "./vs-minimal/document-dark.svg"
