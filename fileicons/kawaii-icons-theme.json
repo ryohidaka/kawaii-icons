@@ -1,4 +1,5 @@
 {
+  "file": "_minimal_file_dark",
   "fileExtensions": {
     "c": "_c",
     "cbl": "_cob",
@@ -17,6 +18,8 @@
     "html": "_html",
     "sqb": "_cob"
   },
+  "folder": "_minimal_folder_dark",
+  "folderExpanded": "_minimal_folder_open_dark",
   "iconDefinitions": {
     "_c": {
       "iconPath": "./images/C/C.png"
@@ -35,6 +38,45 @@
     },
     "_html": {
       "iconPath": "./images/Html/HTML.png"
+    },
+    "_minimal_file_dark": {
+      "iconPath": "./vs-minimal/document-dark.svg"
+    },
+    "_minimal_file_light": {
+      "iconPath": "./vs-minimal/document-light.svg"
+    },
+    "_minimal_folder_dark": {
+      "iconPath": "./vs-minimal/folder-dark.svg"
+    },
+    "_minimal_folder_light": {
+      "iconPath": "./vs-minimal/folder-light.svg"
+    },
+    "_minimal_folder_open_dark": {
+      "iconPath": "./vs-minimal/folder-open-dark.svg"
+    },
+    "_minimal_folder_open_light": {
+      "iconPath": "./vs-minimal/folder-open-light.svg"
+    },
+    "_minimal_root_folder": {
+      "iconPath": "./vs-minimal/root-folder-light.svg"
+    },
+    "_minimal_root_folder_dark": {
+      "iconPath": "./vs-minimal/root-folder-dark.svg"
+    },
+    "_minimal_root_folder_open": {
+      "iconPath": "./vs-minimal/root-folder-open-light.svg"
+    },
+    "_minimal_root_folder_open_dark": {
+      "iconPath": "./vs-minimal/root-folder-open-dark.svg"
     }
-  }
+  },
+  "light": {
+    "file": "_minimal_file_light",
+    "folder": "_minimal_folder_light",
+    "folderExpanded": "_minimal_folder_open_light",
+    "rootFolder": "_minimal_root_folder",
+    "rootFolderExpanded": "_minimal_root_folder_open"
+  },
+  "rootFolder": "_minimal_root_folder_dark",
+  "rootFolderExpanded": "_minimal_root_folder_open_dark"
 }
