@@ -79,6 +79,9 @@
     },
     "_minimal_root_folder_open_dark": {
       "iconPath": "./vs-minimal/root-folder-open-dark.svg"
+    },
+    "_python": {
+      "iconPath": "./images/Python/Python.png"
     }
   },
   "languageIds": {
@@ -88,7 +91,8 @@
     "go": "_go",
     "haskell": "_haskell",
     "html": "_html",
-    "java": "_java"
+    "java": "_java",
+    "python": "_python"
   },
   "light": {
     "file": "_minimal_file_light",
