@@ -88,6 +88,9 @@
     },
     "_rust": {
       "iconPath": "./images/Rust/Rust.png"
+    },
+    "_swift": {
+      "iconPath": "./images/Swift/Swift.png"
     }
   },
   "languageIds": {
@@ -100,7 +103,8 @@
     "java": "_java",
     "python": "_python",
     "ruby": "_ruby",
-    "rust": "_rust"
+    "rust": "_rust",
+    "swift": "_swift"
   },
   "light": {
     "file": "_minimal_file_light",
