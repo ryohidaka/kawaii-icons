@@ -82,6 +82,9 @@
     },
     "_python": {
       "iconPath": "./images/Python/Python.png"
+    },
+    "_ruby": {
+      "iconPath": "./images/Ruby/Ruby.png"
     }
   },
   "languageIds": {
@@ -92,7 +95,8 @@
     "haskell": "_haskell",
     "html": "_html",
     "java": "_java",
-    "python": "_python"
+    "python": "_python",
+    "ruby": "_ruby"
   },
   "light": {
     "file": "_minimal_file_light",
