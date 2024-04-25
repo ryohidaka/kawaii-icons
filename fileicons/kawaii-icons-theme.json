@@ -91,6 +91,9 @@
     },
     "_swift": {
       "iconPath": "./images/Swift/Swift.png"
+    },
+    "_typescript": {
+      "iconPath": "./images/TypeScript/TypeScript.png"
     }
   },
   "languageIds": {
@@ -104,7 +107,8 @@
     "python": "_python",
     "ruby": "_ruby",
     "rust": "_rust",
-    "swift": "_swift"
+    "swift": "_swift",
+    "typescript": "_typescript"
   },
   "light": {
     "file": "_minimal_file_light",
