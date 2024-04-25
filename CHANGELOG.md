@@ -4,6 +4,18 @@ All notable changes to the "kawaii-icons" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.0](https://github.com/ryohidaka/kawaii-icons/compare/v0.1.0...v0.2.0) (2024-04-25)
+
+
+### Features
+
+* Add C ([0f7e141](https://github.com/ryohidaka/kawaii-icons/commit/0f7e141e86a0d5b9bf428b6eae37c1da01220700))
+* Add C# ([2d8abb7](https://github.com/ryohidaka/kawaii-icons/commit/2d8abb70a5ec2a788dd1f817473a0bfe987e498b))
+* Add C++ ([27fd05a](https://github.com/ryohidaka/kawaii-icons/commit/27fd05adcecd6b8b715929bfd7c1eb8f52bb2575))
+* Add Cobol ([3eaf75b](https://github.com/ryohidaka/kawaii-icons/commit/3eaf75bd833604e5cccabe975662c5e839a2418d))
+* Add FORTRAN ([011f599](https://github.com/ryohidaka/kawaii-icons/commit/011f5992fbfbc643ed4a260dcb1c9b82acadbd4d))
+* Add samplefile for HTML. ([1ebe00f](https://github.com/ryohidaka/kawaii-icons/commit/1ebe00f2d71b9276105683cc9cc67af7054b2bff))
+
 ## 0.1.0 (2024-04-24)
 
 
