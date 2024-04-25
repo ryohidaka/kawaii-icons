@@ -10,6 +10,7 @@
     "f90": "_fortran",
     "for": "_fortran",
     "hs": "_haskell",
+    "htmx": "_htmx",
     "sqb": "_cob"
   },
   "folder": "_minimal_folder_dark",
@@ -38,6 +39,9 @@
     },
     "_html": {
       "iconPath": "./images/Html/HTML.png"
+    },
+    "_htmx": {
+      "iconPath": "./images/Htmx/htmx.png"
     },
     "_minimal_file_dark": {
       "iconPath": "./vs-minimal/document-dark.svg"
