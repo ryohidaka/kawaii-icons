@@ -29,6 +29,9 @@
     "_fortran": {
       "iconPath": "./images/FORTRAN/FORTRAN.png"
     },
+    "_go": {
+      "iconPath": "./images/Go/Golang.png"
+    },
     "_html": {
       "iconPath": "./images/Html/HTML.png"
     },
@@ -67,6 +70,7 @@
     "c": "_c",
     "cpp": "_cpp",
     "csharp": "_csharp",
+    "go": "_go",
     "html": "_html"
   },
   "light": {
