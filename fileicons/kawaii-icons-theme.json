@@ -43,6 +43,9 @@
     "_htmx": {
       "iconPath": "./images/Htmx/htmx.png"
     },
+    "_java": {
+      "iconPath": "./images/Java/Java.png"
+    },
     "_minimal_file_dark": {
       "iconPath": "./vs-minimal/document-dark.svg"
     },
@@ -80,7 +83,8 @@
     "csharp": "_csharp",
     "go": "_go",
     "haskell": "_haskell",
-    "html": "_html"
+    "html": "_html",
+    "java": "_java"
   },
   "light": {
     "file": "_minimal_file_light",
