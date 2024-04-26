@@ -13,6 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Check if directory exists
+        run: |
+          if [ ! -d "fileicons/images" ]; then
+            echo "Directory fileicons/images does not exist"
+            exit 1
+          fi
 
       - uses: actions/setup-node@v4
         with:
