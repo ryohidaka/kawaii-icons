@@ -4,6 +4,13 @@ All notable changes to the "kawaii-icons" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.2](https://github.com/ryohidaka/kawaii-icons/compare/v0.3.1...v0.3.2) (2024-04-26)
+
+
+### Bug Fixes
+
+* Fixed to be able to get submodules when executing GitHub Action. ([22edc5e](https://github.com/ryohidaka/kawaii-icons/commit/22edc5e56aeac23e22f9748a7ad6a2f122fce5b0))
+
 ## [0.3.1](https://github.com/ryohidaka/kawaii-icons/compare/v0.3.0...v0.3.1) (2024-04-26)
 
 
